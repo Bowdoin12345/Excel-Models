@@ -10,5 +10,6 @@ Cliet Insurance Needs
 Tax Efficient Withdrawls
 Retirement Plannings
 Discounted Cash Flows 
+Studnt Washers Financial Chart 2024-Present 
 
 All reports are based off of realistics rates, prices, returns and goals 
