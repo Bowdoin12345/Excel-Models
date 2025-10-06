@@ -6,6 +6,7 @@ Portfolio Allocation Trackers
 Portfoilio Rebalance Optimizations
 Real Estate Investment Project Analysis
 Investment Goals for Clients
+3 Statement Financial on ORCL
 Cliet Insurance Needs
 Tax Efficient Withdrawls
 Retirement Plannings
