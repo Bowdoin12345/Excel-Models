@@ -1,16 +1,2 @@
 # Excel-Models
-https://1drv.ms/x/c/1536d39deeeecf42/EbqFhE84K3NJrR8TWjjfQkkB9dajNVEjKswwLDQkLLoX4w
-Link contains a display of:
-Client Portfolios 
-Portfolio Allocation Trackers
-Portfoilio Rebalance Optimizations
-Real Estate Investment Project Analysis
-Investment Goals for Clients
-3 Statement Financial on ORCL
-Cliet Insurance Needs
-Tax Efficient Withdrawls
-Retirement Plannings
-Discounted Cash Flows 
-Studnt Washers Financial Chart 2024-Present 
-
-All reports are based off of realistics rates, prices, returns and goals 
+https://excel.cloud.microsoft/open/onedrive/?docId=3E8EFC6A093D7136%21sff59bf2d69d94029bc5ecad5b456334b&driveId=3E8EFC6A093D7136
